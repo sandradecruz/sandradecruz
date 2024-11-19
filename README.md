@@ -1,4 +1,4 @@
-## Hey, me llamo Sandra 👋
+## Hey, soy Sandra 👋
  <p>Ahora mismo estoy en 1ºDAM💻</p>
  <p>Intento dar lo mejor de mi y aprender más y más a diario.</p>
   <ul>
@@ -9,7 +9,7 @@
     <li>CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="20px"></li>
   </ul>
 
-## ⚙️ Estadísticas GitHub 
+## ⚙️ Mis estadisticas
 <p align="center">
 <a href="https://github.com/sandradecruz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandradecruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
