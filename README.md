@@ -1,8 +1,10 @@
 ## Hey, soy Sandra 👋
 💻 Ahora mismo estoy en 1ºDAM. <br>
 💭 Intento dar lo mejor de mi además trato de aprender más y más a diario.
+ <p><b>🔸Lo que estoy comenzando a manejar:</b></p>
+  
+  
   <ul>
-  <b>🔸Lo que estoy comenzando a manejar:</b>
     <li>Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px"></li>
     <li>Python <img src="https://www.python.org/static/favicon.ico" height="18px"></li>
     <li>HTML <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" height="20px"></li>
