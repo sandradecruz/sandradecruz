@@ -1,6 +1,6 @@
 ## Hey, me llamo Sandra 👋
  <p>Ahora mismo estoy en 1ºDAM💻</p>
- <p>Intento dar lo mejor de mi y aprender más y mas todos los días.</p>
+ <p>Intento dar lo mejor de mi y aprender más y más a diario.</p>
   <ul>
   <b>Lo que estoy comenzando a manejar:</b>
     <li>Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px"></li>
