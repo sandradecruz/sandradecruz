@@ -10,9 +10,13 @@
   </ul>
 
 ## ⚙️ GitHub Stats
-<p align="center">
+<p>
 <a href="https://github.com/sandradecruz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandradecruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandradecruz&layout=compact&theme=tokyonight"/>
 </a>
 </p>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=sandracrutor&label=Profile%20Views&color=5&icon=5&pretty=true" />
+</a>
