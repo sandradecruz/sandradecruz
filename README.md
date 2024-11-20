@@ -3,14 +3,16 @@
 💭 Intento dar lo mejor de mi además trato de aprender más y más a diario.
  <p><b>🔸Lo que estoy comenzando a manejar:</b></p>
   
-  
-  <ul>
-    <li>Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px"></li>
-    <li>Python <img src="https://www.python.org/static/favicon.ico" height="18px"></li>
-    <li>HTML <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" height="20px"></li>
-    <li>CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="20px"></li>
-  </ul>
-
+ <table> 
+  <tr>
+    <td>Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px"></td>
+    <td>Python <img src="https://www.python.org/static/favicon.ico" height="18px"></td>
+    <tr>
+    <td>HTML <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" height="20px"></td>
+    <td>CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="20px"></td>
+    </tr>
+ </table>
+ 
 ## 👾 GitHub Stats
 <p>
 <a href="https://github.com/sandradecruz">
