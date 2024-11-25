@@ -15,10 +15,9 @@
  
 ## 👾 GitHub Stats
 <p>
- 
-![](https://github-readme-stats.vercel.app/api?username=sandradecruz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandradecruz&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandradecruz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p><img src="https://github-readme-stats.vercel.app/api?username=sandradecruz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sandradecruz's GitHub Stats" /></p> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandradecruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="sandradecruz's GitHub Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandradecruz&theme=tokyonight&hide_border=true" alt="sandradecruz's GitHub Stats" /></p>
 
 </p>
 
