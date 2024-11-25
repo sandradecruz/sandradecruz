@@ -15,10 +15,11 @@
  
 ## 👾 GitHub Stats
 <p>
-<a href="https://github.com/sandradecruz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandradecruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandradecruz&layout=compact&theme=tokyonight"/>
-</a>
+ 
+![](https://github-readme-stats.vercel.app/api?username=sandradecruz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandradecruz&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandradecruz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 </p>
 
 <!--<a href="https://visitcount.itsvg.in">
