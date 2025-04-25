@@ -1,26 +1,52 @@
-## Hey, soy Sandra 👋
-💻 Ahora mismo estoy en 1ºDAM. <br>
-💭 Intento dar lo mejor de mi además trato de aprender más y más a diario.
- <p><b>🔸Lo que estoy comenzando a manejar:</b></p>
-  
- <table> 
-  <tr>
-    <td>Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px"></td>
-    <td>Python <img src="https://www.python.org/static/favicon.ico" height="18px"></td>
-    <tr>
-    <td>HTML <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" height="20px"></td>
-    <td>CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="20px"></td>
-    </tr>
- </table>
- 
-## 👾 GitHub Stats
-<p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=sandradecruz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sandradecruz's GitHub Stats" /></p> 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandradecruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="sandradecruz's GitHub Stats" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandradecruz&theme=tokyonight&hide_border=true" alt="sandradecruz's GitHub Stats" /></p>
+<h1 align="left">Hey 👋 ¿Qué pasa?</h1>
 
-</p>
+###
 
-<!--<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sandracrutor&label=Profile%20Views&color=5&icon=5&pretty=true" />
-</a>-->
+<p align="left">Soy Sandra y aspiro a ser una programadora de provecho.</p>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif"  />
+</div>
+
+###
+
+<h2 align="left">👤 Sobre mi...</h2>
+
+###
+
+<p align="left">✨ Siempre intento dar lo mejor de mi.<br>📚 Estoy en  1º DAM.<br>🎯 Hacer una aplicación revolucionaria.</p>
+
+###
+
+<h2 align="left">💻 Utilizo...</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h2 align="center">👾 GitHub stats...</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandradecruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandradecruz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
