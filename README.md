@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Siempre intento dar lo mejor de mi.<br>📚 Estoy en  1º DAM.<br>🎯 Hacer una aplicación revolucionaria.</p>
+<p align="left">✨ Siempre intento dar lo mejor de mi.<br>📚 Estudiando Desarrollo de Aplicaciones Multiplataforma.<br>🎯 Hacer una aplicación revolucionaria.</p>
 
 ###
 
