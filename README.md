@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="center">👾 GitHub stats...</h2>
+<h2 align="left">👾 GitHub stats...</h2>
 
 ###
 
